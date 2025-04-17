@@ -1,0 +1,10 @@
+Result of flux 
+Baseline: 2.4225 
+CC: 2.23 
+GT: 1.3475 
+综合Friedman test statistic = 262.8649999999998, p-value = 8.309798774019682e-58 
+Nemenyi post hoc results: 
+          0         1    2
+0  1.000000  0.017807  0.0
+1  0.017807  1.000000  0.0
+2  0.000000  0.000000  1.0 

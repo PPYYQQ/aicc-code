@@ -1,0 +1,1067 @@
+[
+    {
+        "id": "22",
+        "primary": [
+            "pepper",
+            "fire extinguisher"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "formula": "【fire extinguisher】 -> 【fire extinguisher head】 + 【pepper body】",
+        "combination": [
+            {
+                "new": "pepper",
+                "original": "fire extinguisher"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color"
+        ],
+        "interpretation": "The chili is so fiery that it feels like a fire extinguisher is needed to cool its blaze."
+    },
+    {
+        "id": "144",
+        "primary": [
+            "boat",
+            "books"
+        ],
+        "obja": "boat",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "books",
+                "original": "sails"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "semantics"
+        ],
+        "interpretation": "Books are to a person what sails are to a captain; the more you read as you grow, the better prepared you are to set sail when opportunity arises."
+    },
+    {
+        "id": "200",
+        "primary": [
+            "American flag",
+            "hands",
+            "prison bars"
+        ],
+        "obja": "hand",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "american flag",
+                "original": "prison bars"
+            }
+        ],
+        "attribute": [
+            ""
+        ],
+        "interpretation": "Being an American in current times feels like serving prison time. Working all through life without any time to do things they enjoy."
+    },
+    {
+        "id": "377",
+        "primary": [
+            "pencil",
+            "smoke"
+        ],
+        "type": "D",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "pencil",
+                "original": "cigarette"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "Reason is powerless when confronted with brute force, like a scholar's pencil against a soldier's bullet."
+    },
+    {
+        "id": "241",
+        "primary": [
+            "Lay's Classic Pag",
+            "Potato seedlings"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Lay's Classic",
+                "original": "Potato seedlings"
+            }
+        ],
+        "attribute": [
+            ""
+        ],
+        "interpretation": "Lays potato chips are crafted from the most natural, wholesome ingredients, capturing the essence of simplicity in every crisp bite."
+    },
+    {
+        "id": "69",
+        "primary": [
+            "toothpaste",
+            "fish",
+            "cod roe"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Fish body",
+                "original": "toothpaste tube"
+            },
+            {
+                "new": "cod roe",
+                "original": "toothpaste"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "functionality"
+        ],
+        "interpretation": "Humanity relentlessly extracts resources, a ceaseless act of extinguishing life, where the earth's pulse fades with every grasp."
+    },
+    {
+        "id": "379",
+        "primary": [
+            "pistol",
+            "loud speaker"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "loud speaker",
+                "original": "pistol head"
+            }
+        ],
+        "attribute": [
+            "dynamics"
+        ],
+        "interpretation": "Speech and expression are powerful weapons, capable of shaping minds and influencing the course of events."
+    },
+    {
+        "id": "63",
+        "primary": [
+            "cigarettes",
+            "tabacco soil",
+            "cross tombstone"
+        ],
+        "obja": "tabacco soil",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "cigarettes",
+                "original": "cross tombstone"
+            },            
+            {
+                "new": "tobacco",
+                "original": "soil/turf"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "semantics"
+        ],
+        "interpretation": "Smoking addiction is steadily shaping your grave, drawing you closer to death with every inhale, sealing your fate one puff at a time."
+    },
+    {
+        "id": "56",
+        "primary": [
+            "drink cans",
+            "dynamites",
+            "fuse",
+            "straws"
+        ],
+        "type": "B",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "drink cans, straws",
+                "original": "dynamites, fuses"
+            },
+            {
+                "new": "fuse",
+                "original": "straws"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color",
+            "size",
+            "dynamics"
+        ],
+        "interpretation": "Drinking soda in excess is like detonating explosives within your body, slowly but surely destroying your health."
+    },
+    {
+        "id": "163",
+        "primary": [
+            "French fries",
+            "Marlboro Reds case"
+        ],
+        "obja": "Marlboro Reds case",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "French fries",
+                "original": "cigarettes"
+            }
+        ],
+        "attribute": [
+            "size",
+            "color",
+            "shape"
+        ],
+        "interpretation": "Fast food is as harmful and additive as cigarettes; excessive consumption can significantly impact your health, slowly eroding well-being with each bite."
+    },
+    {
+        "id": "78",
+        "primary": [
+            "jelly fish shape",
+            "plastic bag",
+            "sea"
+        ],
+        "obja": "sea",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "plastic bag",
+                "original": "jellyfish"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "Plastic waste is reshaping the oceans, claiming dominion over marine life, silencing the vibrant pulse of the deep."
+    },
+    {
+        "id": "341",
+        "primary": [
+            "Fish",
+            "plastic bottle"
+        ],
+        "type": "D",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [],
+        "attribute": [
+            ""
+        ],
+        "interpretation": "Marine life is shackled by plastic waste, a symbol of the devastating impact plastic pollution has on the ocean's delicate ecosystem."
+    },
+    {
+        "id": "139",
+        "primary": [
+            "skeletal x-ray",
+            "safety belt "
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "buckle",
+                "original": "spine"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color",
+            "size",
+            "functionality",
+            "semantics"
+        ],
+        "interpretation": "When you cause an accident by not wearing a seatbelt, the surgery to mend your bones is far more complex than the simple act of buckling up in the first place."
+    },
+    {
+        "id": "300",
+        "primary": [
+            "hermit crab",
+            "can"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "can",
+                "original": "shell of hermit crab"
+            }
+        ],
+        "attribute": [
+            "functionality"
+        ],
+        "interpretation": "Human-made waste gradually robs animals of their homes, and in time, it will strip humanity of its own shelter, leaving us all adrift in a desolate world."
+    },
+    {
+        "id": "7",
+        "primary": [
+            "CCTV",
+            "Wood"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "CCTV",
+                "original": "wood branch"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "Nature, in its quiet and subtle way, is always observing humanity, silently witnessing our every moment."
+    },
+    {
+        "id": "30",
+        "primary": [
+            "Penguin",
+            "Melting Ice Lolly"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Penguin",
+                "original": "Ice lolly"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size",
+            "pattern"
+        ],
+        "interpretation": "Human actions are steadily causing glaciers to melt, gradually shrinking the habitat of penguins, and slowly bringing about their demise."
+    },
+    {
+        "id": "452",
+        "primary": [
+            "keyboards",
+            "attack button",
+            "Enter button"
+        ],
+        "obja": "keyboards",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "attack button",
+                "original": "Enter button"
+            }
+        ],
+        "attribute": [
+            "functionality"
+        ],
+        "interpretation": "It shows a serious theme of how something as innocent as the keyboard can pose dangers to you whether it be to symbolize a job, cyberbulllying  or viruses that work inside the computer."
+    },
+    {
+        "id": "302",
+        "primary": [
+            "Straw",
+            "Fish",
+            "cup of ice water"
+        ],
+        "obja": "cup of ice water",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Fish",
+                "original": "Straw"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "Excessive plastic use tightens its grip on marine life's throat, while gradually suffocating humanity's own habitat, leaving us gasping for survival in a world we've polluted."
+    },
+    {
+        "id": "662",
+        "primary": [
+            "pencils",
+            "Marlboro Reds case with ART sign"
+        ],
+        "obja": "Marlboro Reds case with ART sign",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "pencils",
+                "original": "cigarettes"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size",
+            "pattern",
+            "functionality",
+            "semantics"
+        ],
+        "interpretation": "writing is a habitual, perhaps even addictive, activity for writers, providing a sense of comfort, focus, or relief. Just as smokers often take a break to have a cigarette, writers might reach for a pen to jot down thoughts, ideas, or stories, making it an essential tool in their creative process."
+    },
+    {
+        "id": "3",
+        "primary": [
+            "orange",
+            "lungs"
+        ],
+        "type": "B",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "oranges",
+                "original": "lungs"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "texture",
+            "size",
+            "pattern",
+            "functionality",
+            "semantics"
+        ],
+        "interpretation": "The slices of an orange resemble the shape of lungs highlighting the profound universal symmetry that exists throughout nature."
+    },
+    {
+        "id": "375",
+        "primary": [
+            "man",
+            "Chat Bubble",
+            "ball and chain"
+        ],
+        "obja": "a man",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "chat bubble",
+                "original": "ball and chain"
+            }
+        ],
+        "attribute": [
+            "semantics"
+        ],
+        "interpretation": "The exaggerated words you speak and the promises you make are like shackles and chains, becoming your burden to bear."
+    },
+    {
+        "id": "35",
+        "primary": [
+            "Turtle",
+            "straw",
+            "noose"
+        ],
+        "obja": "turtle",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "straw",
+                "original": "noose"
+            }
+        ],
+        "attribute": [
+            "semantics"
+        ],
+        "interpretation": "A plastic straw is like a noose for sea turtles; each time we use plastic products, we unknowingly tighten the grip that slowly strangles marine life."
+    },
+    {
+        "id": "353",
+        "primary": [
+            "dollar note",
+            "an old man face",
+            "mask"
+        ],
+        "obja": "an old man's face",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "dollar note",
+                "original": "mask"
+            }
+        ],
+        "attribute": [
+            "semantics"
+        ],
+        "interpretation": "The poor have their mouths sealed by money. When you lack wealth, you also lose the right to freely speak your mind."
+    },
+    {
+        "id": "267",
+        "primary": [
+            "ash resembling the person shape",
+            "ash",
+            "cigarette"
+        ],
+        "obja": "cigarette",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "ash resembling the person shape",
+                "original": "ash"
+            }
+        ],
+        "attribute": [
+            ""
+        ],
+        "interpretation": "Smoking addiction will make you struggle deeply; your health, like ash, slowly dissipates with each puff, vanishing into the air."
+    },
+    {
+        "id": "301",
+        "primary": [
+            "timer",
+            "earth"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "globe",
+                "original": "watch face"
+            }
+        ],
+        "attribute": [
+            "functionality",
+            "dynamics"
+        ],
+        "interpretation": "A stopwatch with the Earth as its face, symbolizing the urgency and finite time we have to tackle pressing global challenges like climate change and political turmoil."
+    },
+    {
+        "id": "276",
+        "primary": [
+            "mobile phones",
+            "surfboards",
+            "surfers",
+            "sea"
+        ],
+        "obja": "surfers,sea",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "mobile phones",
+                "original": "surfboards"
+            },
+            {
+                "new": "Codes",
+                "original": "Water"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "functionality",
+            "dynamics"
+        ],
+        "interpretation": "In the vast ocean of data, smartphones play an increasingly vital role. When used wisely, they allow you to surf through the digital age with ease and confidence."
+    },
+    {
+        "id": "426",
+        "primary": [
+            "Knife",
+            "ice lolly"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Knife",
+                "original": "ice lolly"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color"
+        ],
+        "interpretation": "Sweets like ice cream are akin to a blade, a silent assassin of your health, tempting yet dangerous with every indulgence."
+    },
+    {
+        "id": "70",
+        "primary": [
+            "medical capsule",
+            "candy"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "medical capsule",
+                "original": "candy"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size",
+            "functionality"
+        ],
+        "interpretation": "Overindulging in sweets harms health, yet for the ill, medicine is as precious as candy, offering hope and healing in every dose."
+    },
+    {
+        "id": "605",
+        "primary": [
+            "ballot box",
+            "votes",
+            "paper shredder"
+        ],
+        "obja": "votes",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Paper Shredder",
+                "original": "Ballot box"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size",
+            "functionality"
+        ],
+        "interpretation": "Casting a vote is a facade. The people behind the scenes are in charge of who wins."
+    },
+    {
+        "id": "432",
+        "primary": [
+            "\"index value/closing price\" chart",
+            "USA flag"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [],
+        "attribute": [
+            ""
+        ],
+        "interpretation": "The index value embodies capitalism, reflecting how the prosperity of the US is fundamentally built on the stock market."
+    },
+    {
+        "id": "27",
+        "primary": [
+            "Energy drink can",
+            "battery"
+        ],
+        "type": "A",
+        "formula": "【energy drink】 -> 【energy drink】 + 【battery】",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "battery",
+                "original": "red bull/energy drink can"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color",
+            "pattern",
+            "functionality",
+            "semantics"
+        ],
+        "interpretation": "An energy drink is like a battery, recharging your body and spirit when fatigue begins to weigh you down."
+    },
+    {
+        "id": "547",
+        "primary": [
+            "a cup of coffee",
+            "pupil"
+        ],
+        "type": "D",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "pupil",
+                "original": "a cup of coffee"
+            }
+        ],
+        "attribute": [
+            "color",
+            "pattern"
+        ],
+        "interpretation": "Coffee serves as a vital companion in the quest for alertness, fueling both mind and body, sharpening senses, and warding off the drowsiness that threatens to cloud focus."
+    },
+    {
+        "id": "543",
+        "primary": [
+            "trash bag",
+            "globe"
+        ],
+        "type": "B",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "trash bag",
+                "original": "globe"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size"
+        ],
+        "interpretation": "The world transformation into a trash bag stark emblem of our planet suffocation under the relentless tide of waste."
+    },
+    {
+        "id": "49",
+        "primary": [
+            "cross tombstone",
+            "air-dropped bomb",
+            "fighter jet"
+        ],
+        "obja": "fighter jet",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "cross tombstone",
+                "original": "air-dropped bomb"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color",
+            "functionality"
+        ],
+        "interpretation": "Bombs dropped from the sky by planes bring devastation the moment they touch the ground, leaving nothing but death in their wake."
+    },
+    {
+        "id": "73",
+        "primary": [
+            "a piece of cake",
+            "Books",
+            "plate and fork",
+            "cherry"
+        ],
+        "obja": "plate,fork,cherry",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Books",
+                "original": "a piece of cake"
+            },
+            {
+                "new": "Letters",
+                "original": "Sprinkles"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "color",
+            "size",
+            "functionality",
+            "dynamics"
+        ],
+        "interpretation": "Knowledge is like a delicious dessert, best savored slowly, each bite revealing deeper flavors to the curious mind."
+    },
+    {
+        "id": "536",
+        "primary": [
+            "eye",
+            "camera"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "eye",
+                "original": "camera"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "size",
+            "functionality",
+            "semantics"
+        ],
+        "interpretation": "The image captures the essence of human perception intertwined with photography, emphasizing the eye as the ultimate camera, where every blink frames a moment, and every glance preserves a memory."
+    },
+    {
+        "id": "401",
+        "primary": [
+            "anatomical heart",
+            "Trash bag"
+        ],
+        "type": "B",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "trash bag",
+                "original": "anatomical heart"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "The bin bag represents the human health which is a message as to how environmental pollution affects the heart health"
+    },
+    {
+        "id": "45",
+        "primary": [
+            "brain",
+            "a book with a socket"
+        ],
+        "obja": "a book with a socket",
+        "type": "C",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "brain",
+                "original": "plug"
+            },
+            {
+                "new": " book",
+                "original": " socket"
+            }
+        ],
+        "attribute": [
+            "shape",
+            "semantics",
+            "functionality"
+        ],
+        "interpretation": "If the mind were a plug, then books would be the sockets, channeling power and wisdom into our thoughts.Books are like chargers for the mind, filling it with knowledge and replenishing its energy."
+    },
+    {
+        "id": "569",
+        "primary": [
+            "Dummy",
+            "Cigarette"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "Cigarette",
+                "original": "Dummy"
+            },
+            {
+                "new": "Smoke",
+                "original": "Dummy "
+            }
+        ],
+        "attribute": [
+            "shape",
+            "pattern"
+        ],
+        "interpretation": "Smoking is addictive."
+    },
+    {
+        "id": "524",
+        "primary": [
+            "missle",
+            "pencil"
+        ],
+        "type": "A",
+        "option": {
+            "A": "O→OP+NO",
+            "B": "O→NO",
+            "C": "O+O→O+NO",
+            "D": "O+NO"
+        },
+        "combination": [
+            {
+                "new": "missle tail",
+                "original": "pencil tail"
+            }
+        ],
+        "attribute": [
+            "shape"
+        ],
+        "interpretation": "Writing can unleash an impact as explosive as a bomb. Yet, it can also turn war into peace, transforming weapons into harmony."
+    }
+]

@@ -1,0 +1,9 @@
+baseline v.s. gt
+61 400 
+0.1525 
+cc v.s. gt
+78 400 
+0.195 
+cc v.s. baseline
+230 400 
+0.575 

@@ -1,0 +1,17 @@
+Help me to create a mashup image of minimalistic style.
+Only include the below objects in the image:
+【object1, object2】
+Here are the creation steps:
+You want to create a mashup image that combines the objects into one object.
+It is better for you to think about their visual similarity such as shapes, size, and color, especially 【{feature}】.
+And you want to replace part of the one object with another's.
+Make sure the whole image contains only one object rather than multiple objects.
+Give me the image generation prompt. Do not any prefix or suffix, Start with: Output:
+
+Example:
+Input: 
+    Objects: 【horse, donkey】
+Output:
+    Create a minimalistic image of a hybrid animal combining features of a horse and a donkey. Start with the body of a horse, characterized by its sleek and muscular form. Replace the horse's ears with the distinctive longer ears of a donkey, and incorporate the donkey's slightly stockier legs to suggest strength and functionality. Use a neutral color palette, blending the typical brown and gray hues found in both animals to maintain harmony in the design. Ensure the overall image is simple and clean, focusing on the seamless integration of features to present a single, unified creature.
+
+Output:

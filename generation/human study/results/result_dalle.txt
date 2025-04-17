@@ -1,0 +1,10 @@
+Result of dalle 
+Baseline: 2.4125 
+CC: 2.18 
+GT: 1.4075 
+综合Friedman test statistic = 221.4449999999997, p-value = 8.200290305131792e-49 
+Nemenyi post hoc results: 
+          0         1    2
+0  1.000000  0.002899  0.0
+1  0.002899  1.000000  0.0
+2  0.000000  0.000000  1.0 

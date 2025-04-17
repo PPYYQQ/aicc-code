@@ -1,0 +1,58 @@
+MJ
+baseline v.s. gt
+105 400 
+0.2625 
+cc v.s. gt
+143 400 
+0.3575 
+cc v.s. baseline
+266 400 
+0.665 
+
+fluxp
+baseline v.s. gt
+59 380 
+0.15526315789473685 
+cc v.s. gt
+94 380 
+0.24736842105263157 
+cc v.s. baseline
+226 380 
+0.5947368421052631 
+
+
+Dalle
+baseline v.s. gt
+69 400 
+0.1725 
+cc v.s. gt
+94 400 
+0.235 
+cc v.s. baseline
+234 400 
+0.585 
+
+flux
+baseline v.s. gt
+61 400 
+0.1525 
+cc v.s. gt
+78 400 
+0.195 
+cc v.s. baseline
+230 400 
+0.575 
+
+sd3
+baseline v.s. gt
+61 400 
+0.1525 
+cc v.s. gt
+72 400 
+0.18 
+cc v.s. baseline
+250 400 
+0.625 
+
+
+

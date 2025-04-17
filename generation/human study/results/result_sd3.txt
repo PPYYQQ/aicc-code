@@ -1,0 +1,10 @@
+Result of sd3 
+Baseline: 2.4725 
+CC: 2.195 
+GT: 1.3325 
+综合Friedman test statistic = 282.7349999999997, p-value = 4.026009817064263e-62 
+Nemenyi post hoc results: 
+          0         1    2
+0  1.000000  0.000256  0.0
+1  0.000256  1.000000  0.0
+2  0.000000  0.000000  1.0 

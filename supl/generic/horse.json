@@ -1,0 +1,65 @@
+{
+    "functionality": [
+      "donkey",
+      "camel",
+      "ox",
+      "mule",
+      "bicycle",
+      "tractor",
+      "motorcycle"
+    ],
+    "shape": [
+      "deer",
+      "zebra",
+      "antelope",
+      "giraffe",
+      "gazelle",
+      "llama",
+      "moose"
+    ],
+    "color": [
+      "brown bear",
+      "deer",
+      "chocolate lab",
+      "beaver",
+      "coffee beans",
+      "oak wood",
+      "chestnut"
+    ],
+    "semantics": [
+      "unicorn",
+      "centaur",
+      "carousel horse",
+      "chess knight",
+      "pegasus",
+      "mustang car",
+      "bronco"
+    ],
+    "pattern": [
+      "cow",
+      "appaloosa",
+      "dalmatian",
+      "giraffe",
+      "leopard",
+      "paint horse",
+      "pinto"
+    ],
+    "texture": [
+      "deer hide",
+      "leather",
+      "velvet",
+      "suede",
+      "mink fur",
+      "felt",
+      "mohair"
+    ],
+    "dynamics": [
+      "cheetah",
+      "gazelle",
+      "antelope",
+      "deer",
+      "kangaroo",
+      "ostrich",
+      "greyhound"
+    ]
+  }
