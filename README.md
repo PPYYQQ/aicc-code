@@ -3,7 +3,7 @@
 
 This is the code repository of **Probing and Inducing Combinational Creativity in Vison-Languge Models** at **CogSci 2025**.
 
-📝 [**arXiv**](https://arxiv.org) | 🌐 [**Project Page**](https://ppyyqq.github.io/aicc) | [**Dataset**](https://drive.google.com/drive/folders/1XIvOVwP0eVX60L-STugt_vi19Q_kAEMW?usp=drive_link)
+📝 [**arXiv**](https://arxiv.org/abs/2504.13120) | 🌐 [**Project Page**](https://ppyyqq.github.io/aicc) | [**Dataset**](https://drive.google.com/drive/folders/1XIvOVwP0eVX60L-STugt_vi19Q_kAEMW?usp=drive_link)
 <!-- 🤗 [**Hugging Face Space**](https://huggingface.co/spaces/Yzy00518/motionReFit) -->
 
 # Getting Started
@@ -37,6 +37,7 @@ CreativeMashup is a novel benchmark that ...
 (Coming Soon!!!)
 
 Please download the CreativeMashup dataset from [Google Drive](https://drive.google.com/drive/folders/1XIvOVwP0eVX60L-STugt_vi19Q_kAEMW?usp=drive_link). The content inside the download link will be continuously updated to ensure you have access to the most recent data.
+
 
 <!-- The file structure should be like:
 ```plaintext
@@ -111,16 +112,15 @@ Explanation of the files and folders of the STANCE dataset:
     ``` -->
 
 
-<!-- # Citation
+# Citation
 
 ```plaintext
-@article{jiang2025dynamic,
-  title={Dynamic Motion Blending for Versatile Motion Editing},
-  author={Jiang, Nan and Li, Hongjie and Yuan, Ziye and He, Zimo and Chen, Yixin and Liu, Tengyu and Zhu, Yixin and Huang, Siyuan},
-  journal={arXiv preprint arXiv:2503.20724},
-  year={2025}
+@article{peng2025probing,
+  title={Probing and Inducing Combinational Creativity in Vision-Language Models},
+  author={Peng, Yongqian and Ma, Yuxi and Wang, Mengmeng and Wang, Yuxuan and Wang, Yizhou and Zhang, Chi and Zhu, Yixin and Zheng, Zilong},
+  journal={arXiv preprint arXiv:2504.13120},
 }
-``` -->
+```
 
 <!-- # Related Repos
 
